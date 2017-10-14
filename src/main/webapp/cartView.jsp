@@ -11,6 +11,6 @@
     <title>Cart View</title>
 </head>
 <body>
-    <h1>View your burritos</h1>
+    <h1>Your order has been placed</h1>
 </body>
 </html>
